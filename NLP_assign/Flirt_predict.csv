@@ -1,0 +1,102 @@
+,,,,,,,,,
+TEXT,,,,,,,,,LABEL
+"1. ""Is your name Google? Because you have everything I've been searching for."" (Flirt)",,,,,,,,,1
+"2. ""Do you believe in love at first sight, or should I walk by again?"" (Flirt)",,,,,,,,,1
+"3. ""Are you a parking ticket? Because you've got 'fine' written all over you."" (Flirt)",,,,,,,,,1
+"4. ""I seem to have lost my phone number. Can I have yours?"" (Flirt)",,,,,,,,,1
+"5. ""If you were a vegetable, you'd be a cute-cumber."" (Flirt)",,,,,,,,,1
+"6. ""Aside from being gorgeous, what do you do for a living?"" (Flirt)",,,,,,,,,1
+"7. ""You must be a magician, because whenever I look at you, everyone else disappears!"" (Flirt)",,,,,,,,,1
+"8. ""Do you have a map? I keep getting lost in your eyes."" (Flirt)",,,,,,,,,1
+"9. ""I'm not a photographer, but I can picture us together."" (Flirt)",,,,,,,,,1
+"10. ""Is your name Wi-Fi? Because I'm feeling a connection."" (Flirt)",,,,,,,,,1
+"11. ""I'm no organ donor, but I'd be happy to give you my heart."" (Flirt)",,,,,,,,,1
+"12. ""Are you a keyboard? Because you're my type."" (Flirt)",,,,,,,,,1
+"13. ""If you were a fruit, you'd be a fine-apple."" (Flirt)",,,,,,,,,1
+"14. ""I'm not sure what's tighter, our jeans or our connection."" (Flirt)",,,,,,,,,1
+"15. ""You look like a warm cup of coffee. I'd love to have you every morning."" (Flirt)",,,,,,,,,1
+"16. ""My love for you is like diarrhea, I can't hold it in."" (Flirt)",,,,,,,,,1
+"17. ""I'm going to complain to Spotify for you not being this weeks hottest single."" (Flirt)",,,,,,,,,1
+"18. ""You're so sweet, you're giving me a toothache."" (Flirt)",,,,,,,,,1
+"19. ""I think you're suffering from a lack of vitamin me."" (Flirt)",,,,,,,,,1
+"20. ""If you were a triangle, you'd be acute one!"" (Flirt)",,,,,,,,,1
+"21. ""I'm not trying to impress you, but... I'm Batman."" (Flirt)",,,,,,,,,1
+"22. ""You're like a fine wine, the older you get, the better you get."" (Flirt)",,,,,,,,,1
+"23. ""I'm not a betting man, but I'd put money on us going out."" (Flirt)",,,,,,,,,1
+"24. ""You're so hot, you must be the reason for global warming."" (Flirt)",,,,,,,,,1
+"25. ""I'm a thief, and I'm here to steal your heart."" (Flirt)",,,,,,,,,1
+"26. ""I'm not a genie, but I can make your dreams come true."" (Flirt)",,,,,,,,,1
+"27. ""You're so beautiful, you make me forget my pickup line."" (Flirt)",,,,,,,,,1
+"28. ""I'd say God bless you, but it looks like he already did."" (Flirt)",,,,,,,,,1
+"29. ""Are you a bank loan? Because you have my interest."" (Flirt)",,,,,,,,,1
+"30. ""You're so charming, you could sell ice to an Eskimo."" (Flirt)",,,,,,,,,1
+"31. ""I'm not a hoarder, but I'd keep you forever."" (Flirt)",,,,,,,,,1
+"32. ""You're so bright, you make the sun jealous."" (Flirt)",,,,,,,,,1
+"33. ""I'm not a poet, but your beauty is inspiring."" (Flirt)",,,,,,,,,1
+"34. ""You're so sweet, you could put Hershey's out of business."" (Flirt)",,,,,,,,,1
+"35. ""I'm not a superhero, but I'd save you any day."" (Flirt)",,,,,,,,,1
+"36. ""You're so smooth, you could charm a snake."" (Flirt)",,,,,,,,,1
+"37. ""I'm not a gambler, but I'd bet on us."" (Flirt)",,,,,,,,,1
+"38. ""You're so captivating, you could stop traffic."" (Flirt)",,,,,,,,,1
+"39. ""I'm not a chef, but I'd cook you a perfect date."" (Flirt)",,,,,,,,,1
+"40. ""You're so radiant, you could light up a room."" (Flirt)",,,,,,,,,1
+"41. ""I'm not a magician, but I can make you smile."" (Flirt)",,,,,,,,,1
+"42. ""You're so elegant, you could grace a royal ball."" (Flirt)",,,,,,,,,1
+"43. ""I'm not a musician, but you make my heart sing."" (Flirt)",,,,,,,,,1
+"44. ""You're so enchanting, you could cast a spell on me."" (Flirt)",,,,,,,,,1
+"45. ""I'm not a writer, but you're my favorite story."" (Flirt)",,,,,,,,,1
+"46. ""You're so alluring, you could tempt a saint."" (Flirt)",,,,,,,,,1
+"47. ""I'm not a painter, but you're a masterpiece."" (Flirt)",,,,,,,,,1
+"48. ""You're so delightful, you could sweeten my day."" (Flirt)",,,,,,,,,1
+"49. ""I'm not a sailor, but I'd cross oceans for you."" (Flirt)",,,,,,,,,1
+"50. ""You're so magnetic, you could draw me in."" (Flirt)",,,,,,,,,1
+"51. ""What time is it?"" (Not Flirt)",,,,,,,,,0
+"52. ""Can you pass the salt?"" (Not Flirt)",,,,,,,,,0
+"53. ""How's the weather today?"" (Not Flirt)",,,,,,,,,0
+"54. ""Did you finish that report?"" (Not Flirt)",,,,,,,,,0
+"55. ""Where's the nearest grocery store?"" (Not Flirt)",,,,,,,,,0
+"56. ""I need help with my computer."" (Not Flirt)",,,,,,,,,0
+"57. ""Do you know what this ingredient is?"" (Not Flirt)",,,,,,,,,0
+"58. ""What's the best route to the library?"" (Not Flirt)",,,,,,,,,0
+"59. ""Have you seen my keys?"" (Not Flirt)",,,,,,,,,0
+"60. ""Could you hold this for a moment?"" (Not Flirt)",,,,,,,,,0
+"61. ""I'm looking for the men's/women's restroom."" (Not Flirt)",,,,,,,,,0
+"62. ""How much does this cost?"" (Not Flirt)",,,,,,,,,0
+"63. ""Is this seat taken?"" (Not Flirt)",,,,,,,,,0
+"64. ""What's the capital of France?"" (Not Flirt)",,,,,,,,,0
+"65. ""Do you have the time?"" (Not Flirt)",,,,,,,,,0
+"66. ""I need to return this item."" (Not Flirt)",,,,,,,,,0
+"67. ""What's your opinion on this article?"" (Not Flirt)",,,,,,,,,0
+"68. ""Can you recommend a good book?"" (Not Flirt)",,,,,,,,,0
+"69. ""I'm trying to find the post office."" (Not Flirt)",,,,,,,,,0
+"70. ""What's the next train to London?"" (Not Flirt)",,,,,,,,,0
+"71. ""I'm having trouble with this recipe."" (Not Flirt)",,,,,,,,,0
+"72. ""Do you know how to fix this?"" (Not Flirt)",,,,,,,,,0
+"73. ""What's the best way to get downtown?"" (Not Flirt)",,,,,,,,,0
+"74. ""I'm looking for a specific store."" (Not Flirt)",,,,,,,,,0
+"75. ""How do you spell that?"" (Not Flirt)",,,,,,,,,0
+"76. ""I need to make a phone call."" (Not Flirt)",,,,,,,,,0
+"77. ""What's the deadline for this project?"" (Not Flirt)",,,,,,,,,0
+"78. ""Can I borrow your pen?"" (Not Flirt)",,,,,,,,,0
+"79. ""I'm trying to understand this concept."" (Not Flirt)",,,,,,,,,0
+"80. ""What's the speed limit here?"" (Not Flirt)",,,,,,,,,0
+"81. ""I need to print this document."" (Not Flirt)",,,,,,,,,0
+"82. ""Do you have any recommendations?"" (Not Flirt)",,,,,,,,,0
+"83. ""What's the exchange rate?"" (Not Flirt)",,,,,,,,,0
+"84. ""I'm trying to find my way back."" (Not Flirt)",,,,,,,,,0
+"85. ""Can you help me carry this?"" (Not Flirt)",,,,,,,,,0
+"86. ""What's the weather forecast for tomorrow?"" (Not Flirt)",,,,,,,,,0
+"87. ""I need to send an email."" (Not Flirt)",,,,,,,,,0
+"88. ""Do you know where the nearest ATM is?"" (Not Flirt)",,,,,,,,,0
+"89. ""What's the best time to visit the museum?"" (Not Flirt)",,,,,,,,,0
+"90. ""I'm trying to learn this language."" (Not Flirt)",,,,,,,,,0
+"91. ""Can I ask you a question about this?"" (Not Flirt)",,,,,,,,,0
+"92. ""What's the population of Tokyo?"" (Not Flirt)",,,,,,,,,0
+"93. ""I need to book a flight."" (Not Flirt)",,,,,,,,,0
+"94. ""Do you know how to change a tire?"" (Not Flirt)",,,,,,,,,0
+"95. ""What's the difference between these two products?"" (Not Flirt)",,,,,,,,,0
+"96. ""I'm trying to find a good restaurant."" (Not Flirt)",,,,,,,,,0
+"97. ""Can you give me directions?"" (Not Flirt)",,,,,,,,,0
+"98. ""What's the history of this building?"" (Not Flirt)",Generate Audio Overview ,,,,,,,,0
+"99. ""I need to return this book to the library."" (Not Flirt)",,,,,,,,,0
+"100. ""Do you have any spare change?"" (Not Flirt)",,,,,,,,,0
